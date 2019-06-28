@@ -3,3 +3,6 @@ class Ficha:
 
 class Tablero:
 	pass
+
+
+test
